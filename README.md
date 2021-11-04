@@ -1,16 +1,29 @@
 ### Hi there 👋
+![code-review](https://user-images.githubusercontent.com/61085159/140276518-e1fb528f-3dd5-48df-9f3e-af07ce826367.jpg)
 
-<!--
-**indrysfa/indrysfa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Introduce my name is Indry Sefviana, I work in the field of Software Engineer. I support those of you who need a system for your needs. I have completed several projects with my clients. For more, please open my portfolio. Thanks^-^
 
-Here are some ideas to get you started:
+## My Skill ✨
+**Currently I understand about the following programming languages and I've been working on a project with this**
+- HTML
+- CSS
+- Javascript
+- Bootstrap
+- PHP
+- CodeIgniter 3 (Framework)
+- Laravel 7 & 8 (Framework)
+- Golang (Gorm)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Tools 🌱
+- Visual Studio + Plugin
+- Linux
+- Docker
+- DBeaver
+- Jira
+- trello
+
+## My Project 🔭
+- [nicewone.com](https://nicewone.com/)
+
+## Donate ⚡
+[ngopi](https://saweria.co/sailingxlt)
