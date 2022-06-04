@@ -1,5 +1,5 @@
 ### Hi there 👋
-![indrysfa](https://user-images.githubusercontent.com/61085159/172019935-1fdaa70b-b5b0-4ccd-b855-83ddee5183f6.jpg)
+![indrysfa](https://user-images.githubusercontent.com/61085159/172020349-58b8e8b9-7542-4b06-a1c7-177fa761781a.png)
 
 Introduce my name is Indry Sefviana, I work in the field of Software Engineer. I support those of you who need a system for your needs. I have completed several projects with my clients. For more, please open my portfolio. Thanks^-^
 
