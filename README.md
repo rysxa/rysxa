@@ -24,8 +24,24 @@ Introduce my name is Indry Sefviana, I work in the field of Software Engineer. I
  <img src = "https://img.shields.io/badge/-Golang-69d7e4?style=flat&logo=go&logoColor=white"> 
 </p>
 
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=indrysfa&show_icons=true&theme=radical&border_radius=20px">
+</p>
+ <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=indrysfa&show_icons=true&title_color=ffffff&icon_color=2A75CF&text_color=daf7dc&bg_color=191919&border_radius=20px">
+ </p>
+
 ## My Project 🔭
 - [nicewone.com](https://nicewone.com/)
 
+<h3 align="center">Contact Me 👇:</h3>
+  
+<p align="center">
+    <a href="mailto:indrysfa@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
+    <a href="https://www.linkedin.com/in/indry-sefviana/" traget-"_blank"><img src="https://img.shields.io/badge/-Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</p>
+ 
 ## Donate ⚡
 [ngopi](https://saweria.co/sailingxlt)
