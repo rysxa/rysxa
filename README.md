@@ -41,7 +41,8 @@ Introduce my name is Indry Sefviana, I work in the field of Software Engineer. I
 <p align="center">
     <a href="mailto:indrysfa@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
     <a href="https://www.linkedin.com/in/indry-sefviana/" traget-"_blank"><img src="https://img.shields.io/badge/-Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</a>
 </p>
  
-## Donate ⚡
-[ngopi](https://saweria.co/piekacuh)
+## Support Me ☕️
+[ngopi](https://rysxa.carrd.co/)
