@@ -30,10 +30,10 @@ Introduce my name is Indry Sefviana, I work in the field of Software Engineer. I
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=indrysfa&show_icons=true&theme=radical&border_radius=20px">
+  <img src="https://github-readme-stats.vercel.app/api?username=rysxa&show_icons=true&theme=radical&border_radius=20px">
 </p>
  <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=indrysfa&show_icons=true&title_color=ffffff&icon_color=2A75CF&text_color=daf7dc&bg_color=191919&border_radius=20px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rysxa&show_icons=true&title_color=ffffff&icon_color=2A75CF&text_color=daf7dc&bg_color=191919&border_radius=20px">
  </p>
 
 <h3 align="center">Contact Me 👇:</h3>
